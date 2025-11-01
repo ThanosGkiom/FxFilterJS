@@ -2,10 +2,10 @@
 A powerful JavaScript library that brings advanced visual effects to the web using SVG filters and canvas-based textures. Create stunning visual effects like liquid glass, frosted glass, chromatic aberration, and customizable noise patterns with simple CSS declarations. Easily extensible with custom effects using the FxFilter.add() API.
 
 ```html
-<script src="https://berkaytumal.github.io/FxFilterJS/FxFilter.js"></script>
+<script src="https://cherryhoax.github.io/FxFilterJS/FxFilter.js"></script>
 ```
 
-[View Demo](https://html-preview.github.io/?url=https://github.com/berkaytumal/FxFilterJS/blob/main/index.html)
+[View Demo](https://html-preview.github.io/?url=https://github.com/cherryhoax/FxFilterJS/blob/main/index.html)
 
 <img src="example.webp" alt="Example" style="max-width: 400px;">
 
@@ -15,10 +15,10 @@ A powerful JavaScript library that brings advanced visual effects to the web usi
 
 ```html
 <!-- Latest version -->
-<script src="https://berkaytumal.github.io/FxFilterJS/FxFilter.js"></script>
+<script src="https://cherryhoax.github.io/FxFilterJS/FxFilter.js"></script>
 
 <!-- Specific version -->
-<script src="https://berkaytumal.github.io/FxFilterJS/v1.0.0/FxFilter.js"></script>
+<script src="https://cherryhoax.github.io/FxFilterJS/v1.0.0/FxFilter.js"></script>
 ```
 
 ### Local Installation
